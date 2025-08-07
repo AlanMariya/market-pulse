@@ -21,7 +21,7 @@ For any given stock ticker (e.g. `AAPL`, `MSFT`, `NVDA`), this app:
 ## 🖼️ Frontend Preview
 
 <img src="[./screenshots/ui-preview.png](https://github.com/AlanMariya/market-pulse/blob/main/Frontend%20Preview%202.png)" alt="Market Pulse UI" width="600"/>
-<img src="" >
+<img src="https://github.com/AlanMariya/market-pulse/blob/main/Frontend%20preview%201.png" >
 
 ---
 
